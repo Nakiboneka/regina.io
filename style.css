@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: large;
+    border: solid;
+}
+p{
+    color: red;
+}
+body{
+    background-color: indianred
+    
+    ;
+}
+img{
+    border-radius: 50%;
+    
+}
+.photo{
+    text-align: center;
+}
